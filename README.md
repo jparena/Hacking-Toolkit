@@ -10,3 +10,7 @@ Helps to hide data in other files. Could be used for encrypting messages. Symmet
 https://www.wireshark.org/
 
 Helps to see traffic on a network
+
+netcat https://netcat.sourceforge.net 
+
+does a lot of things 
